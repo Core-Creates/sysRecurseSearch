@@ -1,11 +1,15 @@
-from setuptools import find_packages, setup
+from setuptools import setup, find_packages
 
 setup(
     name='sysRecurseSearch',
-    packages=find_packages(include=['sysRecurseSearch']),
-    version='0.1.0',
-    description='My first Python library',
-    author='Corrina Alcoser aka Core-Creates',
-    install_requires=[],
-    setup_requires=[],
+    version='0.1.1',
+    packages=find_packages(),
+    install_requires=[
+        # Add your package dependencies here
+    ],
+    entry_points={
+        'console_scripts': [
+            # Add console scripts here
+        ],
+    },
 )
