@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+sysRecurseSearch.egg-info/PKG-INFO
+sysRecurseSearch.egg-info/SOURCES.txt
+sysRecurseSearch.egg-info/dependency_links.txt
+sysRecurseSearch.egg-info/top_level.txt

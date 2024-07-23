@@ -7,5 +7,5 @@ setup(
     description='My first Python library',
     author='Corrina Alcoser aka Core-Creates',
     install_requires=[],
-    setup_requires=['os', 'time', 'stat'],
+    setup_requires=[],
 )
